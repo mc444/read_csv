@@ -1,1 +1,1 @@
-Reads csv-data from a file and stores the necessary patt in a yaml-file.
+Reads csv-data from a file and stores the necessary part in a yaml-file.
